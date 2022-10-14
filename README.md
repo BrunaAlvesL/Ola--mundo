@@ -1,2 +1,3 @@
-# Ola  mundo
- Peimwiro repositorio
+# Olá, mundo!
+
+Primeiro repositorio do curso
